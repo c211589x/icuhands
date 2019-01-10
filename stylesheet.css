@@ -9,7 +9,7 @@
 
 header{
   text-align:center;
-  background-image: url(../jpg/back1.png);
+  background-image: url(jpg/back1.png);
   margin: 0px 0px 0px 0px;
   padding: 0px 0px 0px 0px;
   background-size:cover;
@@ -180,7 +180,7 @@ a.kaiwa-text:last-child {
 
 body{
   margin:0 0 0 0;
-  background-image: url(../jpg/back2.png);
+  background-image: url(jpg/back2.png);
 }
 
 
