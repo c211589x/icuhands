@@ -38,7 +38,7 @@ header{
 }
 
 .court{
-  background-image: url(../jpg/court.png);
+  background-image: url(jpg/court.png);
   margin: 0px 0px 400px 0px;
   padding: 0px 0px 0px 0px;
   background-size:cover;
